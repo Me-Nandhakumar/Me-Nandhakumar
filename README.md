@@ -5,8 +5,6 @@
 ---
 
 ### 👨‍💻 I’m currently working on:
-- 🚦 Traffic Simulation Project using Python and Pygame
-- 🧠 AI & Data Science Final Year Academic Projects
 
 ### 🌱 I’m currently learning:
 - Machine Learning & Deep Learning
