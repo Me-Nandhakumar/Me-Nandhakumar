@@ -1,40 +1,66 @@
-👋 Hi, I’m Nandhakumar S. J.
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 
-**Me-Nandhakumar/Me-Nandhakumar** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-
----
-
-### 👨‍💻 I’m currently working on:
-
-### 🌱 I’m currently learning:
-- Machine Learning & Deep Learning
-- Flask Web Development
-- Advanced Python Automation
-
-### 🤝 I’m looking to collaborate on:
-- Python-based automation projects
-- Data analysis and visualization
-- Flask or Django web applications
-
-### 🧑‍🔧 I’m looking for help with:
-- Deploying ML models into production
-- API integration with Python (Flask/Django)
-
-### 💬 Ask me about:
-- Python development
-- AI & Data Science concepts
-- Portfolio or project-building tips
-
-### 📫 How to reach me:
-- Email: [nandhakumar.s.jnandhu@gmail.com](mailto:nandhakumar.s.jnandhu@gmail.com)
-- LinkedIn: [Nandhakumar S. J](https://www.linkedin.com/in/nandhakumar-s-j-b0a94b29b/)
-- GitHub: [Me-Nandhakumar](https://github.com/Me-Nandhakumar)
-
-### 😄 Pronouns: He/Him  
-### ⚡ Fun fact: I love building smart systems using Python and solving real-world problems!
+# 👋 Hello! Welcome  
+# I'm Nandhakumar S.J  
+🎓 Final Year Student in **Artificial Intelligence & Data Science**  
+💻 Passionate **Python Developer** and tech enthusiast  
+🌱 Currently exploring **Machine Learning, Flask, and Full Stack Development**
 
 ---
 
-<!--
-**Me-Nandhakumar/Me-Nandhakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### 📬 Mail Me  
+<a href="mailto:nandhakumar.s.jnandhu@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" />
+</a>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/nandhakumar-s-j-b0a94b29b" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
+  </a>
+  <a href="https://www.facebook.com/share/1FcVNj9PvF/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" />
+  </a>
+  <a href="https://www.instagram.com/nandhakumar_s.j?igsh=c25rOGt3ZjA2aWc0" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" />
+  </a>
+  <a href="https://github.com/Me-Nandhakumar" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-e407f93f-4e4f-4f94-9a30-fb55f0b03182.gif" width="100" />
+  </a>
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Me-Nandhakumar&theme=radical&hide_border=false)
+![](https://streak-stats.demolab.com?user=Me-Nandhakumar&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Me-Nandhakumar&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Me-Nandhakumar&theme=radical&no-frame=true&margin-w=4)
+
+---
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
