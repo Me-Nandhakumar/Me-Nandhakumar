@@ -9,8 +9,9 @@
 ---
 
 ### 📬 Mail Me  
-<a href="mailto:nandhakumar.s.jnandhu@gmail.com"
-  <img>src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" />
+<a href="mailto:nandhakumar.s.jnandhu@gmail.com"target="_blank">
+  <img>
+  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" />
 </a>
 
 ---
