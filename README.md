@@ -1,53 +1,55 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 𝗡𝗔𝗡𝗗𝗛𝗔𝗞𝗨𝗠𝗔𝗥 𝗦.𝗝 — GitHub Profile README                                  -->
+<!-- NANDHAKUMAR S — GitHub Profile README                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Nandhakumar+S.J;Python+Developer+%7C+AI+%26+Data+Science+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Nandhakumar+S;Python+Developer+%7C+ML+Engineer+%7C+AI+%26+Data+Science" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nandhakumar-s-j1112/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nandhakumar-s-j-b0a94b29b"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nandhakumar.s.jnandhu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Me-Nandhakumar"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://wa.me/917010597980"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Me-Nandhakumar&color=0e75b6&style=flat-square&label=Profile+Views" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+---
 
 ```python
 # ⚡ nandhakumar.py — who am I?
-class PythonDeveloper:
+class MLEngineer:
     def __init__(self):
-        self.name       = "Nandhakumar S.J"
-        self.role       = "Python Developer & AI/Data Science Student"
+        self.name       = "Nandhakumar S"
+        self.role       = "Python Developer | ML Engineer Enthusiast"
         self.education  = "B.Tech AI & Data Science — Mahendra College, Salem (CGPA: 7.20)"
-        self.location   = "Salem, Tamil Nadu 🇮🇳"
+        self.location   = "Bangalore, Karnataka, India 🇮🇳"
         self.contact    = "nandhakumar.s.jnandhu@gmail.com"
         self.phone      = "+91 70105 97980"
 
     @property
     def expertise(self):
         return [
-            "🐍 Python Application Development",
-            "📊 Data Analysis & Visualization (Pandas, NumPy, Matplotlib)",
-            "🤖 Machine Learning (Scikit-learn, Classification, Regression)",
-            "🌐 Backend Development (Flask + MySQL)",
-            "⚙️  Automation & Real-World System Design",
+            "🐍 Python Development",
+            "🤖 Machine Learning — Supervised & Unsupervised",
+            "📊 Data Preprocessing, EDA & Feature Engineering",
+            "📈 Model Evaluation & Predictive Analytics",
+            "🌐 Flask Backend & MySQL Database",
+            "⚙️  Real-World System Design & Automation",
         ]
 
     @property
     def currently_building(self):
         return {
-            "CareHub"         : "Smart Hospital Management & Billing System",
-            "Fake Profile Det": "ML model — 94.9% accuracy on Instagram data",
-            "Gold Predictor"  : "Regression model — R² score of 0.84",
+            "CareHub"          : "Smart Hospital Billing System — ~80% manual effort saved",
+            "Fake Profile Det" : "ML model — 94.9% accuracy on Instagram data",
+            "Gold Predictor"   : "Regression model — R² score of 0.84",
         }
 
     def fun_fact(self):
         return "I debug with print() and I'm proud of it 😄"
 
-me = PythonDeveloper()
+me = MLEngineer()
 ```
 
 ---
@@ -69,11 +71,11 @@ me = PythonDeveloper()
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pycharm" width="48" /><br><sub><b>PyCharm</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jupyter" width="48" /><br><sub><b>Jupyter</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" /><br><sub><b>Sklearn</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" /><br><sub><b>TensorFlow</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" /><br><sub><b>OpenCV</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" /><br><sub><b>Linux</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br><sub><b>Postman</b></sub></td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" /><br><sub><b>SQLite</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br><sub><b>Postman</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" /><br><sub><b>Figma</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=googlecolab" width="48" /><br><sub><b>Colab</b></sub></td>
   </tr>
 </table>
 
@@ -94,10 +96,10 @@ me = PythonDeveloper()
 <tr>
 <td width="50%" valign="top">
 
-#### 🏥 [CareHub — Hospital Management System](https://github.com/Me-Nandhakumar/CareHub-Smart-Hospital-Billing-System)
-> Python · MySQL · PyWhatKit · QR Payment
+#### 🏥 [CareHub — Smart Hospital Management System](https://github.com/Me-Nandhakumar/MedixCare-Smart-Hospital-Billing-System)
+> Python · MySQL · PyWhatKit · QR Payment · Tkinter
 
-Built a full hospital management system with **patient records**, **appointment slot booking**, **automated QR billing**, and **WhatsApp bill delivery**. Combines backend logic, database handling, and real-world automation.
+Full hospital management system with **patient records**, **appointment booking**, **automated QR billing**, and **WhatsApp bill delivery** — reducing manual effort by **~80%**. Designed a complete relational database schema.
 
 </td>
 <td width="50%" valign="top">
@@ -105,7 +107,7 @@ Built a full hospital management system with **patient records**, **appointment 
 #### 🤖 [Fake Instagram Profile Detection](https://github.com/Me-Nandhakumar)
 > Scikit-learn · Logistic Regression · Pandas · NumPy
 
-Built an ML classification model to detect fake Instagram accounts. Performed full data preprocessing and feature analysis, achieving **94.9% accuracy** using Scikit-learn.
+End-to-end ML classification pipeline to detect fake Instagram accounts. Full data preprocessing, feature engineering (followers/following ratio, profile completeness), achieving **94.9% accuracy**.
 
 </td>
 </tr>
@@ -115,15 +117,15 @@ Built an ML classification model to detect fake Instagram accounts. Performed fu
 #### 📈 [Gold Price Prediction](https://github.com/Me-Nandhakumar)
 > Scikit-learn · Regression · Pandas · NumPy
 
-Developed a regression model on historical financial data to predict gold prices. Full preprocessing pipeline with feature analysis, achieving an **R² score of 0.84**.
+Regression model on historical financial data. Analyzed indicators like oil price, silver price, and exchange rates. Achieved **R² score of 0.84** on real-world datasets.
 
 </td>
 <td width="50%" valign="top">
 
-#### 💬 [Customer Care Chatbot](https://github.com/Me-Nandhakumar/ChatBot)
-> Flask · HTML · CSS
+#### 💬 [Customer Care Support Chatbot](https://github.com/Me-Nandhakumar/ChatBot)
+> Flask · HTML · CSS · Python
 
-Flask-based chatbot with HTML/CSS frontend providing instant automated responses. Built with **scalable architecture** designed for future AI/ML integration.
+Flask-based chatbot with HTML/CSS frontend providing instant automated responses to customer FAQs. Designed for scalable future AI/ML integration.
 
 </td>
 </tr>
@@ -131,23 +133,15 @@ Flask-based chatbot with HTML/CSS frontend providing instant automated responses
 
 ---
 
-### 🏆 Achievements & Experience
+### 🏆 Experience & Achievements
 
 | 🏅 | Achievement |
 |:---:|:---|
-| 🔬 | **ML & Python Training** — Livewire Institute *(Aug 2025 – Present)* |
+| 🎓 | **ML & Python Training** — Livewire Institute *(Aug 2025 – Jun 2026)* |
 | 💼 | **Full Stack Intern** — Crescent Infotech *(Aug – Sep 2024)* |
 | 🏆 | **Freedom with AI** — Masterclass Completion *(Aug 2025)* |
-| 🏆 | **Data Science using Python** — International Level Student Workshop *(Feb 2024)* |
-
----
-
-### 📜 Certifications
-
-| Certificate | Issuer |
-|:---|:---|
-| Freedom with AI — Masterclass | Aug 2025 |
-| Data Science using Python | Int'l Student Workshop 2k24 |
+| 🏆 | **Data Science using Python** — International Level Workshop *(Feb 2024)* |
+| 📜 | **HTML & CSS Crash Course** — Coursera · [Verify H927B02QGPK1](https://coursera.org/verify/H927B02QGPK1) *(Jul 2025)* |
 
 ---
 
@@ -191,8 +185,9 @@ Flask-based chatbot with HTML/CSS frontend providing instant automated responses
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nandhakumar-s-j1112/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nandhakumar-s-j-b0a94b29b"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nandhakumar.s.jnandhu@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/917010597980"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center"><sub>⭐ Star my repos if you find them useful — it means a lot!</sub></p>
