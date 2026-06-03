@@ -1,11 +1,22 @@
-<!-- Header Banner -->
+<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:166534&height=200&section=header&text=Nandhakumar%20S.J&fontSize=50&fontColor=4ade80&fontAlignY=38&desc=Python%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descColor=aaaaaa" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:166534&height=220&section=header&text=Nandhakumar%20S.J&fontSize=52&fontColor=4ade80&fontAlignY=38&animation=fadeIn&desc=Python%20Developer%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descColor=aaaaaa" width="100%"/>
+</div>
+
+<!-- Animated Typing SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;AI+%26+Data+Science+Student+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%93%88;Building+Real+Tools%2C+Not+Just+Notebooks+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br/>
 
-<!-- Badges Row -->
+<!-- Animated GIF + Badges -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400"/>
+</div>
+
+<br/>
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-052e16?style=for-the-badge&logo=python&logoColor=4ade80)
@@ -153,6 +164,16 @@ Frontend & backend basics · HTML · CSS · Python · Web app deployment
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Me-Nandhakumar&theme=algolia&no-frame=true&column=4"/>
+</div>
+
+<!-- Animated contribution snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Me-Nandhakumar/Me-Nandhakumar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+<!-- Animated activity graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Me-Nandhakumar&theme=react-dark&bg_color=0d0d0d&color=4ade80&line=166534&point=4ade80&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
