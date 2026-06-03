@@ -1,193 +1,200 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- NANDHAKUMAR S — GitHub Profile README                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████████████████ -->
+<!--  NANDHAKUMAR S — GitHub Profile README  |  AI · ML · Python              -->
+<!-- ██████████████████████████████████████████████████████████████████████████ -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Nandhakumar+S;Python+Developer+%7C+ML+Engineer+%7C+AI+%26+Data+Science" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nandhakumar-s-j-b0a94b29b"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nandhakumar.s.jnandhu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Me-Nandhakumar"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://wa.me/917010597980"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Me-Nandhakumar&color=0e75b6&style=flat-square&label=Profile+Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NANDHAKUMAR%20S&fontSize=50&fontColor=00FFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20ML%20Engineer%20%7C%20AI%20%26%20Data%20Science&descAlignY=55&descSize=18&descColor=ffffff" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🤖+Building+Intelligent+Systems+with+Python;📊+Machine+Learning+%7C+Data+Science+%7C+Automation;🚀+Turning+Data+into+Real-World+Solutions;⚡+Recently+Graduated+%7C+Open+to+Opportunities)](https://github.com/Me-Nandhakumar)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandhakumar-s-j-b0a94b29b)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhakumar.s.jnandhu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Me-Nandhakumar)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917010597980)
+[![Profile Views](https://komarev.com/ghpvc/?username=Me-Nandhakumar&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Me-Nandhakumar)
+
+</div>
 
 ---
 
+## 🧠 About Me
+
 ```python
-# ⚡ nandhakumar.py — who am I?
+#!/usr/bin/env python3
+# ─────────────────────────────────────────────────────────
+#  nandhakumar.py  |  AI & ML Engineer Profile
+# ─────────────────────────────────────────────────────────
+
 class MLEngineer:
+
     def __init__(self):
-        self.name       = "Nandhakumar S"
-        self.role       = "Python Developer | ML Engineer Enthusiast"
-        self.education  = "B.Tech AI & Data Science — Mahendra College, Salem (CGPA: 7.20)"
-        self.location   = "Bangalore, Karnataka, India 🇮🇳"
-        self.contact    = "nandhakumar.s.jnandhu@gmail.com"
-        self.phone      = "+91 70105 97980"
+        self.name        = "Nandhakumar S"
+        self.role        = ["Python Developer", "ML Engineer", "Data Science Enthusiast"]
+        self.location    = "📍 Bangalore, Karnataka, India"
+        self.education   = "B.Tech — AI & Data Science | Mahendra College, Salem (CGPA: 7.20)"
+        self.email       = "nandhakumar.s.jnandhu@gmail.com"
+        self.status      = "🟢 Open to Work — ML Engineer | Python Developer | Data Analyst"
 
-    @property
-    def expertise(self):
-        return [
-            "🐍 Python Development",
-            "🤖 Machine Learning — Supervised & Unsupervised",
-            "📊 Data Preprocessing, EDA & Feature Engineering",
-            "📈 Model Evaluation & Predictive Analytics",
-            "🌐 Flask Backend & MySQL Database",
-            "⚙️  Real-World System Design & Automation",
-        ]
-
-    @property
-    def currently_building(self):
+    def skills(self):
         return {
-            "CareHub"          : "Smart Hospital Billing System — ~80% manual effort saved",
-            "Fake Profile Det" : "ML model — 94.9% accuracy on Instagram data",
-            "Gold Predictor"   : "Regression model — R² score of 0.84",
+            "Languages"   : ["Python", "SQL", "HTML", "CSS"],
+            "ML / AI"     : ["Supervised Learning", "Unsupervised Learning",
+                             "Classification", "Regression", "Predictive Analytics"],
+            "Libraries"   : ["Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
+            "Tools"       : ["Jupyter", "Google Colab", "VS Code", "PyCharm",
+                             "MySQL Workbench", "GitHub", "Git", "Excel", "Flask"],
+            "Concepts"    : ["Data Preprocessing", "Feature Engineering",
+                             "Model Evaluation", "EDA", "Data Cleaning", "ETL"],
         }
+
+    def projects(self):
+        return [
+            {"name": "CareHub Hospital System",   "metric": "~80% manual effort saved"},
+            {"name": "Fake Profile Detection",    "metric": "94.9% accuracy"},
+            {"name": "Gold Price Prediction",     "metric": "R² score = 0.84"},
+            {"name": "Customer Care Chatbot",     "metric": "Flask + Python"},
+        ]
 
     def fun_fact(self):
         return "I debug with print() and I'm proud of it 😄"
 
 me = MLEngineer()
+print(f"👋 Hi! I'm {me.name} — {me.status}")
 ```
 
 ---
 
-### 🧰 Tech Stack & Tools
+## ⚡ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><sub><b>Python</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" /><br><sub><b>Flask</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" /><br><sub><b>MySQL</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br><sub><b>HTML5</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br><sub><b>CSS3</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" /><br><sub><b>Git</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" /><br><sub><b>GitHub</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br><sub><b>VS Code</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pycharm" width="48" /><br><sub><b>PyCharm</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jupyter" width="48" /><br><sub><b>Jupyter</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" /><br><sub><b>Sklearn</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" /><br><sub><b>Linux</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" /><br><sub><b>SQLite</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" /><br><sub><b>Postman</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" /><br><sub><b>Figma</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=googlecolab" width="48" /><br><sub><b>Colab</b></sub></td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyWhatKit-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
+### 🐍 Core Languages & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 📊 Data Science Libraries
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-#### 🏥 [CareHub — Smart Hospital Management System](https://github.com/Me-Nandhakumar/MedixCare-Smart-Hospital-Billing-System)
-> Python · MySQL · PyWhatKit · QR Payment · Tkinter
+| 🏥 CareHub — Smart Hospital System | 🤖 Fake Profile Detection |
+|:---|:---|
+| Python · MySQL · PyWhatKit · Tkinter | Scikit-learn · Logistic Regression · Pandas |
+| Full hospital management system with patient records, appointment booking, automated QR billing & WhatsApp bill delivery | End-to-end ML classification pipeline detecting fake Instagram accounts using feature engineering |
+| **~80% manual effort reduced** | **94.9% accuracy achieved** |
+| [![View](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github)](https://github.com/Me-Nandhakumar/CareHub-Smart-Hospital-Billing-System) | [![View](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github)](https://github.com/Me-Nandhakumar/ML-DS-Project/blob/main/Logistic%20Regression/Fake%20Account%20Detection%20on%20Social%20Media.ipynb) |
 
-Full hospital management system with **patient records**, **appointment booking**, **automated QR billing**, and **WhatsApp bill delivery** — reducing manual effort by **~80%**. Designed a complete relational database schema.
+| 📈 Gold Price Prediction | 💬 Customer Care Chatbot |
+|:---|:---|
+| Scikit-learn · Regression · Pandas · NumPy | Flask · Python · HTML · CSS |
+| Regression model on historical financial data analyzing oil price, silver price & exchange rates | Flask-based web chatbot providing instant automated responses to customer FAQs |
+| **R² score of 0.84 on real-world data** | **Scalable AI/ML integration ready** |
+| [![View](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github)](https://github.com/Me-Nandhakumar/ML-DS-Project/blob/main/Simple%20Linear%20Regression/Gold%20Price%20Variation%20in%20India%20Over%20the%20Years%20using%20Linear%20Regression.ipynb) | [![View](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github)](https://github.com/Me-Nandhakumar/ChatBot) |
 
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 [Fake Instagram Profile Detection](https://github.com/Me-Nandhakumar)
-> Scikit-learn · Logistic Regression · Pandas · NumPy
-
-End-to-end ML classification pipeline to detect fake Instagram accounts. Full data preprocessing, feature engineering (followers/following ratio, profile completeness), achieving **94.9% accuracy**.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📈 [Gold Price Prediction](https://github.com/Me-Nandhakumar)
-> Scikit-learn · Regression · Pandas · NumPy
-
-Regression model on historical financial data. Analyzed indicators like oil price, silver price, and exchange rates. Achieved **R² score of 0.84** on real-world datasets.
-
-</td>
-<td width="50%" valign="top">
-
-#### 💬 [Customer Care Support Chatbot](https://github.com/Me-Nandhakumar/ChatBot)
-> Flask · HTML · CSS · Python
-
-Flask-based chatbot with HTML/CSS frontend providing instant automated responses to customer FAQs. Designed for scalable future AI/ML integration.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-### 🏆 Experience & Achievements
+## 🏆 Experience & Certifications
 
-| 🏅 | Achievement |
-|:---:|:---|
-| 🎓 | **ML & Python Training** — Livewire Institute *(Aug 2025 – Jun 2026)* |
-| 💼 | **Full Stack Intern** — Crescent Infotech *(Aug – Sep 2024)* |
-| 🏆 | **Freedom with AI** — Masterclass Completion *(Aug 2025)* |
-| 🏆 | **Data Science using Python** — International Level Workshop *(Feb 2024)* |
-| 📜 | **HTML & CSS Crash Course** — Coursera · [Verify H927B02QGPK1](https://coursera.org/verify/H927B02QGPK1) *(Jul 2025)* |
+<div align="center">
 
----
+| 🏅 | Role / Achievement | Organization | Period |
+|:---:|:---|:---|:---:|
+| 🎓 | **ML & Python Training** | Livewire Institute | Aug 2025 – Jun 2026 |
+| 💼 | **Full Stack Intern** | Crescent Infotech | Aug – Sep 2024 |
+| 📜 | **HTML & CSS Crash Course** | Coursera · [Verify](https://coursera.org/verify/H927B02QGPK1) | Jul 2025 |
+| 🏆 | **Freedom with AI** — Masterclass | External | Aug 2025 |
+| 🏆 | **Data Science using Python** — International Workshop | College Level | Feb 2024 |
+| 📊 | **Excel Tools for Data Analysis** | Infosys Springboard | 2024 |
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Me-Nandhakumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Me-Nandhakumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Me-Nandhakumar&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Me-Nandhakumar&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" alt="Activity Graph"/>
-</p>
+</div>
 
 ---
 
-### 🐍 Contribution Snake
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Me-Nandhakumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Me-Nandhakumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Me-Nandhakumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Me-Nandhakumar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff" width="98%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Me-Nandhakumar/Me-Nandhakumar/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Me-Nandhakumar/Me-Nandhakumar/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Me-Nandhakumar/Me-Nandhakumar/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Me-Nandhakumar/Me-Nandhakumar/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Me-Nandhakumar&theme=algolia&no-frame=true&column=7&margin-w=10" alt="Trophies" width="90%"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Me-Nandhakumar&theme=algolia&no-frame=true&column=7&margin-w=10" width="90%" />
+</div>
 
 ---
 
-<p align="center">
-  <b>💬 "Building practical, deployable solutions — not just notebooks."</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nandhakumar-s-j-b0a94b29b"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nandhakumar.s.jnandhu@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/917010597980"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
+```
+╔══════════════════════════════════════════════════════════╗
+║   "Building practical, deployable solutions —            ║
+║    not just notebooks."                                  ║
+║                                                          ║
+║   🟢 Open to Work — Bangalore, India                    ║
+║   📧 nandhakumar.s.jnandhu@gmail.com                    ║
+║   📱 +91 70105 97980                                    ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-<p align="center"><sub>⭐ Star my repos if you find them useful — it means a lot!</sub></p>
+[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandhakumar-s-j-b0a94b29b)
+[![Hire Me](https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhakumar.s.jnandhu@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917010597980)
+
+<sub>⭐ Star my repos if you find them useful — it really means a lot!</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
